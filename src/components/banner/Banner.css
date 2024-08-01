@@ -42,6 +42,8 @@
     text-align: left;
     width: 455px;   
     margin-top: 25px; 
+    color:#241415;
+    opacity: 60%;
  }
  .video__img{
     padding: 13px;
@@ -83,5 +85,11 @@ color:#241415;
     flex-direction: column;
 }
 .banner{
-    margin-top: 88px;
+    margin-top: 100px;
+    display: flex;
+}
+.banner__imags{
+    position: absolute;
+    right: 50px;
+    bottom: -130px;
 }

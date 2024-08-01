@@ -1,7 +1,8 @@
 import React from 'react'
 import matatsikl from "../../assets/matatsikl.svg";
-import video from "../../assets/video.svg"
-
+import video from "../../assets/video.svg";
+import hero__img from "../../assets/hero__img.png";
+import burger from "../../assets/banner__burger.svg";
 import "./Banner.css"
 
 
@@ -28,6 +29,9 @@ const Banner = () => {
             </div>
         </div>
       </div>
+      <div className='banner__imags'>
+              <img src={hero__img} alt="" />
+            </div>
     </div>
   )
 }

@@ -1,0 +1,26 @@
+.Product{
+    margin-top: 250px;
+}
+
+.product__subtitle{
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 50.4px;
+    text-align: center;      
+}
+
+.product__text{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+    width: 750px;
+    color:#241415;
+    opacity: 60%;
+    margin-top: 16px;
+}
+.product__title{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
