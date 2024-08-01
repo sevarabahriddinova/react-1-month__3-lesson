@@ -1,0 +1,44 @@
+.list__style{
+ text-decoration: none;
+ font-size: 16px;
+ font-weight: 400;
+ line-height: 20.16px;
+ text-align: left;
+ font-family: sans-serif;
+ color:#241415;
+}
+.list__title{
+    list-style: none;
+
+}
+.list__wrapper{
+    display: flex;
+    gap: 30px;
+}
+.header__wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav__title__wrappr{
+    display:flex;
+    align-items: center;
+    gap: 247px;
+}
+.login__wrapper{
+    width: 129px;
+    height: 56px;
+    display: flex;
+    gap: 10px;
+    padding:20px;
+    border-radius: 20px;
+    background-color: red;
+}
+.nav__icons{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.login{
+    color: #fff;
+}

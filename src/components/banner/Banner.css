@@ -1,0 +1,87 @@
+.banner__logo{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    
+}
+.banner__logo__title{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #F54749;
+}
+.banner__logo{
+    background-color: #f5474a2d;
+    width: 191px;
+    height: 50px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+}
+.banner__subtitle__stayle{ 
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 100.8px;
+    text-align: left;
+    color: #F54749;
+}
+.banner__title__stayle{ 
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 100.8px;
+    text-align: left;
+ }
+ .banner__subtitle{
+    width: 454px;
+ }
+ .banner__text{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    width: 455px;   
+    margin-top: 25px; 
+ }
+ .video__img{
+    padding: 13px;
+    background-color: #f5474a2d;
+    border-radius: 50px;
+ }
+ .btn__banner__video{
+    display: flex;
+    gap:15px;
+    align-items: center;  
+    border: none;
+    background-color: #fff;
+font-size: 16px;
+font-weight: 400;
+line-height: 30px;
+text-align: left;
+color:#241415;  
+}
+
+.btn__banner{
+    width: 191px;
+    height: 60px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.16px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #F54749;
+    border-radius:20px; 
+    border: none;
+}
+.banner__button{
+    display: flex;
+    gap: 35px;
+    margin-top: 50px;
+}
+.banner__title{
+    display: flex;
+    flex-direction: column;
+}
+.banner{
+    margin-top: 88px;
+}
