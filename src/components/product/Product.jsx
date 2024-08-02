@@ -1,7 +1,9 @@
 import React from 'react'
-import "./Product.css"
+import "./Product.css";
+import Card from '../card/Card';
 
 const Product = () => {
+ 
   return (
     <div className='Product'>
         <div className='container'>
@@ -13,6 +15,19 @@ const Product = () => {
                         </p>
                 </div>
             </div>
+
+
+            <div className='product__cards__wrapper'>
+                <Card/>
+                <Card/>
+                <Card/>
+                <Card/>
+                <Card/>
+                <Card/>
+                <Card/>
+                <Card/>
+            </div>
+
         </div>
     </div>
   )

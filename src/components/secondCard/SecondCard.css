@@ -1,0 +1,52 @@
+.second__card__title__style{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+ }
+
+.secondCard{
+    width: 360px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    background-color: aliceblue;
+    border-radius: 20px;
+}
+.secondCard:hover{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;}
+.avatar__title{
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+.avatar__title__style{
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 28px;
+    text-align: left;
+    
+}
+.avatar__text{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+    color:#241415;    
+}
+.section__avatar{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.second__card__wrapper{
+    width: 100%;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.card__yulduzlari{
+    height: 20px;
+    width: 100px;
+}

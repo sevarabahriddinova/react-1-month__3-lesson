@@ -75,6 +75,14 @@ color:#241415;
     border-radius:20px; 
     border: none;
 }
+.btn__banner:active{
+    transform: scale(0.9);
+    background-color: #f5bb478a;
+}
+.btn__banner:hover{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
 .banner__button{
     display: flex;
     gap: 35px;
@@ -93,3 +101,4 @@ color:#241415;
     right: 50px;
     bottom: -130px;
 }
+

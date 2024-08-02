@@ -1,0 +1,33 @@
+.mobile__title__style{
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 50.4px;
+    text-align: left;
+}
+.mobile__text{
+    margin-top: 16px;
+    width: 430px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #241415;
+}
+.mobile__title{
+    width: 470px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.title__images{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.mobile__wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top:100px;
+}
